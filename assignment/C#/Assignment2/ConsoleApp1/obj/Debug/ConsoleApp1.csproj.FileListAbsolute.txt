@@ -1,0 +1,7 @@
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\Assignment2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\Assignment2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\Assignment2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\Assignment2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\Assignment2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\Assignment2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\Assignment2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

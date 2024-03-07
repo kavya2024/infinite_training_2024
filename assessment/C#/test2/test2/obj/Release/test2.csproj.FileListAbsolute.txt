@@ -1,0 +1,14 @@
+C:\Users\kavyaa\source\repos\test2\test2\bin\Release\test2.exe.config
+C:\Users\kavyaa\source\repos\test2\test2\bin\Release\test2.exe
+C:\Users\kavyaa\source\repos\test2\test2\bin\Release\test2.pdb
+C:\Users\kavyaa\source\repos\test2\test2\obj\Release\test2.csproj.AssemblyReference.cache
+C:\Users\kavyaa\source\repos\test2\test2\obj\Release\test2.csproj.CoreCompileInputs.cache
+C:\Users\kavyaa\source\repos\test2\test2\obj\Release\test2.exe
+C:\Users\kavyaa\source\repos\test2\test2\obj\Release\test2.pdb
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\test2\test2\bin\Release\test2.exe.config
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\test2\test2\bin\Release\test2.exe
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\test2\test2\bin\Release\test2.pdb
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\test2\test2\obj\Release\test2.csproj.AssemblyReference.cache
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\test2\test2\obj\Release\test2.csproj.CoreCompileInputs.cache
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\test2\test2\obj\Release\test2.exe
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\test2\test2\obj\Release\test2.pdb

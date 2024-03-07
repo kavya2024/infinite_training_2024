@@ -1,0 +1,7 @@
+C:\Users\kavyaa\source\repos\test2\test2\bin\Debug\test2.exe.config
+C:\Users\kavyaa\source\repos\test2\test2\bin\Debug\test2.exe
+C:\Users\kavyaa\source\repos\test2\test2\bin\Debug\test2.pdb
+C:\Users\kavyaa\source\repos\test2\test2\obj\Debug\test2.csproj.AssemblyReference.cache
+C:\Users\kavyaa\source\repos\test2\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Users\kavyaa\source\repos\test2\test2\obj\Debug\test2.exe
+C:\Users\kavyaa\source\repos\test2\test2\obj\Debug\test2.pdb

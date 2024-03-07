@@ -1,0 +1,7 @@
+C:\Users\kavyaa\source\repos\assignment3\assignment3\bin\Debug\assignment3.exe.config
+C:\Users\kavyaa\source\repos\assignment3\assignment3\bin\Debug\assignment3.exe
+C:\Users\kavyaa\source\repos\assignment3\assignment3\bin\Debug\assignment3.pdb
+C:\Users\kavyaa\source\repos\assignment3\assignment3\obj\Debug\assignment3.csproj.AssemblyReference.cache
+C:\Users\kavyaa\source\repos\assignment3\assignment3\obj\Debug\assignment3.csproj.CoreCompileInputs.cache
+C:\Users\kavyaa\source\repos\assignment3\assignment3\obj\Debug\assignment3.exe
+C:\Users\kavyaa\source\repos\assignment3\assignment3\obj\Debug\assignment3.pdb

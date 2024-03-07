@@ -1,0 +1,6 @@
+C:\Users\kavyaa\source\repos\WindowsFormsApp1\ConsoleApp1\obj\Debug\pos_neg.csproj.CoreCompileInputs.cache
+C:\Users\kavyaa\source\repos\WindowsFormsApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\kavyaa\source\repos\WindowsFormsApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\kavyaa\source\repos\WindowsFormsApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\kavyaa\source\repos\WindowsFormsApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\kavyaa\source\repos\WindowsFormsApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

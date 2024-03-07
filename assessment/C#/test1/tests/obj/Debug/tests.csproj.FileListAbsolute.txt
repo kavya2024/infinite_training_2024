@@ -1,0 +1,6 @@
+C:\Users\kavyaa\source\repos\tests\tests\bin\Debug\tests.exe.config
+C:\Users\kavyaa\source\repos\tests\tests\bin\Debug\tests.exe
+C:\Users\kavyaa\source\repos\tests\tests\bin\Debug\tests.pdb
+C:\Users\kavyaa\source\repos\tests\tests\obj\Debug\tests.csproj.CoreCompileInputs.cache
+C:\Users\kavyaa\source\repos\tests\tests\obj\Debug\tests.exe
+C:\Users\kavyaa\source\repos\tests\tests\obj\Debug\tests.pdb

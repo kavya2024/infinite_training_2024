@@ -1,0 +1,7 @@
+C:\Users\kavyaa\source\repos\WindowsFormsApp1\number\bin\Debug\number.exe.config
+C:\Users\kavyaa\source\repos\WindowsFormsApp1\number\bin\Debug\number.exe
+C:\Users\kavyaa\source\repos\WindowsFormsApp1\number\bin\Debug\number.pdb
+C:\Users\kavyaa\source\repos\WindowsFormsApp1\number\obj\Debug\number.csproj.CoreCompileInputs.cache
+C:\Users\kavyaa\source\repos\WindowsFormsApp1\number\obj\Debug\number.exe
+C:\Users\kavyaa\source\repos\WindowsFormsApp1\number\obj\Debug\number.pdb
+C:\Users\kavyaa\source\repos\WindowsFormsApp1\number\obj\Debug\number.csproj.AssemblyReference.cache
