@@ -1,0 +1,10 @@
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\C#\assignment4\Question1\ConcessionConsoleApp\ConcessionConsoleApp\bin\Debug\ConcessionConsoleApp.exe.config
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\C#\assignment4\Question1\ConcessionConsoleApp\ConcessionConsoleApp\bin\Debug\ConcessionConsoleApp.exe
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\C#\assignment4\Question1\ConcessionConsoleApp\ConcessionConsoleApp\bin\Debug\ConcessionConsoleApp.pdb
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\C#\assignment4\Question1\ConcessionConsoleApp\ConcessionConsoleApp\bin\Debug\Concession.dll
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\C#\assignment4\Question1\ConcessionConsoleApp\ConcessionConsoleApp\bin\Debug\Concession.pdb
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\C#\assignment4\Question1\ConcessionConsoleApp\ConcessionConsoleApp\obj\Debug\ConcessionConsoleApp.csproj.AssemblyReference.cache
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\C#\assignment4\Question1\ConcessionConsoleApp\ConcessionConsoleApp\obj\Debug\ConcessionConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\C#\assignment4\Question1\ConcessionConsoleApp\ConcessionConsoleApp\obj\Debug\ConcessionConsoleApp.csproj.CopyComplete
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\C#\assignment4\Question1\ConcessionConsoleApp\ConcessionConsoleApp\obj\Debug\ConcessionConsoleApp.exe
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\C#\assignment4\Question1\ConcessionConsoleApp\ConcessionConsoleApp\obj\Debug\ConcessionConsoleApp.pdb

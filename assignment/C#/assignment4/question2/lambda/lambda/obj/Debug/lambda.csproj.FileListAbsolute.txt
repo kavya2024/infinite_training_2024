@@ -1,0 +1,6 @@
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\C#\assignment4\question2\lambda\lambda\obj\Debug\lambda.csproj.CoreCompileInputs.cache
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\C#\assignment4\question2\lambda\lambda\bin\Debug\lambda.exe.config
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\C#\assignment4\question2\lambda\lambda\bin\Debug\lambda.exe
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\C#\assignment4\question2\lambda\lambda\bin\Debug\lambda.pdb
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\C#\assignment4\question2\lambda\lambda\obj\Debug\lambda.exe
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\C#\assignment4\question2\lambda\lambda\obj\Debug\lambda.pdb
