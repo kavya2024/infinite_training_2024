@@ -1,5 +1,5 @@
 create database Sql_assignment2
-use Sql_assignment_2
+use Sql_assignment2
 
 create table Employees
 (Empno numeric(4)unique,
