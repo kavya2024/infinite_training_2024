@@ -71,8 +71,8 @@ insert into Employee values
 (6, 'Komal', 22, 'MP',null),
 (7, 'Muffy', 24, 'Indore',null)
 select lower(NAME) AS Lowercase_Name
-from customer
-where SALARY is not null
+from Employee
+where SALARY is null
 --student details 
 create table StudentDetails (StudentID int primary key,RegisterNo int,Name varchar(50),Age int,Qualification  varchar(50), MobileNo bigint, Mail_id  varchar(100),Location NVARCHAR(50),Gender CHAR(1))
 insert into StudentDetails (StudentID, RegisterNo, Name, Age, Qualification, MobileNo, Mail_id, Location, Gender) values
