@@ -1,0 +1,7 @@
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\ADO.NET\ADO.NET_Assignment1\ADO.NET_Assignment1\bin\Debug\ADO.NET_Assignment1.exe.config
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\ADO.NET\ADO.NET_Assignment1\ADO.NET_Assignment1\bin\Debug\ADO.NET_Assignment1.exe
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\ADO.NET\ADO.NET_Assignment1\ADO.NET_Assignment1\bin\Debug\ADO.NET_Assignment1.pdb
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\ADO.NET\ADO.NET_Assignment1\ADO.NET_Assignment1\obj\Debug\ADO.NET_Assignment1.csproj.AssemblyReference.cache
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\ADO.NET\ADO.NET_Assignment1\ADO.NET_Assignment1\obj\Debug\ADO.NET_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\ADO.NET\ADO.NET_Assignment1\ADO.NET_Assignment1\obj\Debug\ADO.NET_Assignment1.exe
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assignment\ADO.NET\ADO.NET_Assignment1\ADO.NET_Assignment1\obj\Debug\ADO.NET_Assignment1.pdb
