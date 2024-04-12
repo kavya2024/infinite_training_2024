@@ -1,0 +1,7 @@
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\ADONet\Asseseement1\Asseseement1\bin\Debug\Asseseement1.exe.config
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\ADONet\Asseseement1\Asseseement1\bin\Debug\Asseseement1.exe
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\ADONet\Asseseement1\Asseseement1\bin\Debug\Asseseement1.pdb
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\ADONet\Asseseement1\Asseseement1\obj\Debug\Asseseement1.csproj.AssemblyReference.cache
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\ADONet\Asseseement1\Asseseement1\obj\Debug\Asseseement1.csproj.CoreCompileInputs.cache
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\ADONet\Asseseement1\Asseseement1\obj\Debug\Asseseement1.exe
+C:\Users\kavyaa\Desktop\infinite_trainig_2024\Csharp\assessment\ADONet\Asseseement1\Asseseement1\obj\Debug\Asseseement1.pdb
